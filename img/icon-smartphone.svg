@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.272 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef6433;
+      }
+    </style>
+  </defs>
+  <path id="ic_phone_android_24px" class="cls-1" d="M28,1H11.273C7.8,1,5,4.35,5,8.5v40C5,52.65,7.8,56,11.273,56H28c3.471,0,6.273-3.35,6.273-7.5V8.5C34.273,4.35,31.471,1,28,1ZM23.818,51H15.455V48.5h8.364Zm6.8-7.5H8.659V8.5H30.614Z" transform="translate(-5 -1)"/>
+</svg>
